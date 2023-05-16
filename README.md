@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jhon kErly</h1>
-<h3 align="center">A passionate and Backend frontend developer from Colombia</h3>
+<h3 align="center">A passionate Backend and frontend developer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhonthe77&label=Profile%20views&color=0e75b6&style=flat" alt="jhonthe77" /> </p>
 
