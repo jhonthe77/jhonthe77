@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jhon kErly</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate and Backend frontend developer from Colombia</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jhonthe77&label=Profile%20views&color=0e75b6&style=flat" alt="jhonthe77" /> </p>
+
+- 🌱 I’m currently learning **Angular**
+
+- 👨‍💻 All of my projects are available at [https://jhonthe77.github.io/Portafolio-jhon/](https://jhonthe77.github.io/Portafolio-jhon/)
+
+- 📫 How to reach me **jhonthe7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
